@@ -37,6 +37,7 @@ public enum Key : Equatable, Hashable {
     case Alt
     case AltLeft
     case AltRight
+    case Amiga
     case ArrowLeft
     case ArrowUp
     case Backspace
