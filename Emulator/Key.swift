@@ -112,6 +112,7 @@ public enum Key : Equatable, Hashable {
     case Start
     case SymbolShift
     case Tab
+    case Tilde
     case TrueVideo
     
     public var isShift: Bool {
